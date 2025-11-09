@@ -1,3 +1,23 @@
+加密货币
+比特币
+以太坊
+crypto
+bitcoin
+ethereum
+
+区块链
+去中心化
+币安
+blockchain
+web3
+binance
+
+A股
+上证
+深证
++涨跌
+!预测
+
 DeepSeek
 梁文锋
 
@@ -47,23 +67,13 @@ iphone
 ipad
 mac
 ios
+苹果
+!水果
+!价格
 
 ai
 !gai
 人工智能
-
-加密货币
-区块链
-去中心化
-币安
-比特币
-以太坊
-crypto
-blockchain
-web3
-binance
-bitcoin
-ethereum
 
 自动驾驶
 机器人
@@ -80,9 +90,6 @@ ethereum
 科技
 
 核能
-
-水电站
-雅鲁藏布江
 
 新质生产力
 
