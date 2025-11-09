@@ -12,28 +12,18 @@ blockchain
 web3
 binance
 
+美股
+!预测
+
 A股
 上证
 深证
-+涨跌
 !预测
-
-DeepSeek
-梁文锋
 
 华为
 鸿蒙
 HarmonyOS
 任正非
-
-大疆
-DJI
-
-!车
-!餐
-
-京东
-刘强东
 
 字节
 bytedance
@@ -50,6 +40,7 @@ NVIDIA
 黄仁勋
 
 AMD
+苏姿丰
 
 谷歌
 google
@@ -59,7 +50,6 @@ deepmind
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -81,13 +71,12 @@ ai
 国产
 中国
 美国
-日本
-韩国
 
 芯片
 光刻机
 
 科技
+!公司
 
 核能
 
